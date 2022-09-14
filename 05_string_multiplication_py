@@ -1,0 +1,9 @@
+# String multiplication (multiplicar string)
+
+word_one = "Hello"
+
+Space = " "
+
+sentence = word_one + Space
+
+print(sentence*8)
